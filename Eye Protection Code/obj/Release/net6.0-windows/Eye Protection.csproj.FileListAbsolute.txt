@@ -1,0 +1,17 @@
+C:\Projects\+\Eye Protection Code\bin\Release\net6.0-windows\Eye Protection.exe
+C:\Projects\+\Eye Protection Code\bin\Release\net6.0-windows\Eye Protection.deps.json
+C:\Projects\+\Eye Protection Code\bin\Release\net6.0-windows\Eye Protection.runtimeconfig.json
+C:\Projects\+\Eye Protection Code\bin\Release\net6.0-windows\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\bin\Release\net6.0-windows\Eye Protection.pdb
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Task_9.Form1.resources
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye_Protection.Properties.Resources.resources
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.csproj.GenerateResource.cache
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.AssemblyInfoInputs.cache
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.AssemblyInfo.cs
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.csproj.CoreCompileInputs.cache
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\refint\Eye Protection.dll
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.pdb
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\Eye Protection.genruntimeconfig.cache
+C:\Projects\+\Eye Protection Code\obj\Release\net6.0-windows\ref\Eye Protection.dll
